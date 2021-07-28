@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Student Records</string>
+    <string name="url_login">https://livedatabaseraghib.000webhostapp.com/info/login.php</string>
+    <string name="url_fetch">https://livedatabaseraghib.000webhostapp.com/info/fetch.php</string>
+    <string name="url_register">https://livedatabaseraghib.000webhostapp.com/info/register.php</string>
+    <string name="url_delete">https://livedatabaseraghib.000webhostapp.com/info/delete.php</string>
+    <string name="url_update">https://livedatabaseraghib.000webhostapp.com/info/update.php</string>
+
+</resources>
